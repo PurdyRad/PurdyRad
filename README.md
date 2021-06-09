@@ -13,7 +13,7 @@ let Adam = {
 }
 ```
 
-Here are some ideas to get you started:
+Here are some of the latest that's going on in my life (free of charge!):
 
 - 🔭 I’m currently working on a generalizable monitoring and evaluation platform!
 - 🌱 I’m currently learning antD
